@@ -1,0 +1,18 @@
+#apps
+{
+    background: linear-gradient(rgb(94, 255, 174)0%, rgb(91, 73, 255)50%, rgb(255, 112, 207)100%);
+}
+#juegos
+{
+    background: linear-gradient(rgb(255, 112, 207)0%, rgb(91, 73, 255)50%, rgb(94, 255, 174)100%);
+}
+.linea
+{
+    background-color: red;
+    height: 3px;
+    width: 1140px;
+}
+#chat
+{
+    background: linear-gradient(rgb(94, 255, 174)0%, rgb(91, 73, 255)50%, rgb(255, 112, 207)100%);
+}
